@@ -65,7 +65,8 @@ The Power BI dashboard is organised into three main sections to provide differen
 
 Provides a high-level summary of internet sales performance, highlighting key performance indicators, revenue trends, and overall business performance.
 
-![Sales Overview](./images/Sales_overview.png)
+
+![Sales Overview](images/Product details.png)
 
 ### 6.2 Product Details
 
