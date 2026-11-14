@@ -158,4 +158,4 @@ Internet-Sales-Performance-Dashboard/
 
 **Project:** Internet Sales Performance Dashboard  
 **Category:** Business Intelligence & Data Analytics  
-**Primary Tool:** Microsoft Power BI
+**Primary Tools:** Microsoft SQL Server, Microsoft Power BI
