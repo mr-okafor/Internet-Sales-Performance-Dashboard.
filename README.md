@@ -66,19 +66,20 @@ The Power BI dashboard is organised into three main sections to provide differen
 Provides a high-level summary of internet sales performance, highlighting key performance indicators, revenue trends, and overall business performance.
 
 
-![Sales Overview](images/Product details.png)
+![Sales Overview](./images/Sales%20overview.png)
+
 
 ### 6.2 Product Details
 
 Provides a detailed analysis of product performance, allowing users to explore sales contributions across individual products and product categories.
 
-![Product Details](./images/Product_details.png)
+![Sales Overview](./images/Product%20details.png)
 
 ### 6.3 Customer Details
 
 Examines customer purchasing behaviour and sales contributions, helping identify valuable customers and understand how revenue is distributed across the customer base.
 
-![Customer Details](./images/customer_details.png)
+![Customer Details](./images/customer%20details.png)
 
 ## 7. Interactive Features
 
